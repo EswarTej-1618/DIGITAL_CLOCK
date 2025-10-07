@@ -6,9 +6,6 @@ A fully functional, **multi-mode digital clock** built entirely from scratch usi
 
 This project was created as a hands-on challenge in **digital electronics**, focusing on fundamental concepts like synchronous counters, BCD-to-7-segment decoding, and logic gate troubleshooting.
 
-![Digital Clock](https://via.placeholder.com/600x400.png?text=Our+Digital+Clock+Project)
-*Replace the placeholder with an actual image of your project*
-
 ---
 
 ## 🚀 Features
